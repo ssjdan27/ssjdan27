@@ -11,7 +11,7 @@ I have always had a passion for technology and I am looking forward to learning 
 - 🌱 I’m currently learning CSS (flexbox)
 - ⚡ Fun fact: I also have a strong love for powerlifting and bodybuilding 💪
 
-Current cousework includes:
+Current coursework includes:
 - Calculus 3 ♾️	
 - Object Oriented Programming :dependabot: 	
 - Intro to Web Dev :computer:	
