@@ -6,11 +6,12 @@ I have always had a passion for technology and I am looking forward to learning 
 
 - 🔭 I’m currently working on a landing page for the Odin Project
 - 🌱 I’m currently learning CSS (flexbox)
+- ⚡ Fun fact: I also have a strong love for powerlifting and bodybuilding 💪
 
 Current cousework includes:
-- Calculus 3
-- Object Oriented Programming
-- Intro to Web Dev
+- Calculus 3 ♾️	
+- Object Oriented Programming :dependabot: 	
+- Intro to Web Dev :computer:	
 - Physics I :electron:	
 <!--
 **ssjdan27/ssjdan27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
