@@ -4,6 +4,9 @@ Hey, my name is Daniel Garza and I am currently a Software Engineering Student a
 
 I have always had a passion for technology and I am looking forward to learning new languages, frameworks, paradigms, etc.
 
+# Skills:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,git,github,java,linux,py,vscode)](https://skillicons.dev)
+
 - 🔭 I’m currently working on a landing page for the Odin Project
 - 🌱 I’m currently learning CSS (flexbox)
 - ⚡ Fun fact: I also have a strong love for powerlifting and bodybuilding 💪
