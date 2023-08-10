@@ -12,7 +12,7 @@ Current cousework includes:
 - Calculus 3 ♾️	
 - Object Oriented Programming :dependabot: 	
 - Intro to Web Dev :computer:	
-- Physics I :electron:	
+- General Physics I :electron:	
 <!--
 **ssjdan27/ssjdan27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
