@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-Hey, my name is Daniel Garza and I am currently a Software Engineering Student at the University of Northern Colorado! 
+Hey, my name is Daniel Garza and I am currently a Software Engineering and Mathematics Student at the University of Northern Colorado! 
 
 I have always had a passion for technology and I am looking forward to learning new languages, frameworks, paradigms, etc.
 
 # Skills/Tools:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,git,github,java,linux,py,vscode,powershell,idea,cloudflare)](https://skillicons.dev) 
 
-- 🔭 I’m currently working on a landing page for the Odin Project
-- 🌱 I’m currently learning CSS (flexbox)
+- 🔭 I’m currently working on a Pomodoro Web App
+- 🌱 I’m currently learning JavaScript
 - ⚡ Fun fact: I also have a strong love for powerlifting and bodybuilding 💪
 
 Current coursework includes:
