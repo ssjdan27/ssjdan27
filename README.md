@@ -12,10 +12,11 @@ I have always had a passion for technology and I am looking forward to learning 
 - ⚡ Fun fact: I also have a strong love for powerlifting and bodybuilding 💪
 
 Current coursework includes:
-- Calculus 3 ♾️	
-- Object Oriented Programming :dependabot: 	
-- Intro to Web Dev :computer:	
-- General Physics I :electron:	
+- Fundamentals of Project Management 📈
+- Discrete Math :atom:	
+- Data Structures and Algorithms 🖱️	
+- Special Topics in CS 💻
+- Intro to Complex Analysis 🧮
 <!--
 **ssjdan27/ssjdan27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
