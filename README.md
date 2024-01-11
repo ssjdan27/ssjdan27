@@ -15,7 +15,7 @@ Current coursework includes:
 - Fundamentals of Project Management 📈
 - Discrete Math :atom:	
 - Data Structures and Algorithms 🖱️	
-- Special Topics in CS 💻
+- Emerging Topics in CS 💻
 - Intro to Complex Analysis 🧮
 <!--
 **ssjdan27/ssjdan27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
