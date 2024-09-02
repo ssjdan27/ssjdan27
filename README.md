@@ -7,12 +7,13 @@ Hey, my name is **Daniel Garza**. I'm a Software Engineering and Mathematics stu
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,git,github,java,linux,py,vscode,powershell,idea,cloudflare)](https://skillicons.dev) 
 
 ## Current Activities
-- 🔭 I’m currently working on a **Pomodoro Web App**
-- 🌱 I’m currently learning **JavaScript**
+- 🔭 I’m currently working on a **Chess Helper**
+- 🌱 I’m currently learning **Chess**
 - ⚡ Fun fact: I also have a strong love for **powerlifting and bodybuilding** 💪
 
 ## Coursework
-- None! I am on Summer break.
-
-## Current Location
-I am currently in **South Africa** for my internship developing software!
+- Differential Equations I 🧮
+- Linear Algebra :electron:
+- Intermediate Web Development 💻
+- Object Oriented Systems Development 🖥️
+- Software Engineering I 🖱️
