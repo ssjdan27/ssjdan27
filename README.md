@@ -12,8 +12,7 @@ Hey, my name is **Daniel Garza**. I'm a Software Engineering and Mathematics stu
 - ⚡ Fun fact: I also have a strong love for **powerlifting and bodybuilding** 💪
 
 ## Coursework
-- Differential Equations I 🧮
-- Linear Algebra :electron:
-- Intermediate Web Development 💻
-- Object Oriented Systems Development 🖥️
-- Software Engineering I 🖱️
+- Intro to Topology 🧮
+- Networking 💻
+- Fundamentals of Data Science 🖥️
+- Artificial Intelligence 🖱️
