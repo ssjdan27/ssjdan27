@@ -12,7 +12,4 @@ Hey, my name is **Daniel Garza**. I'm a Software Engineering and Mathematics stu
 - ⚡ Fun fact: I also have a strong love for **powerlifting and bodybuilding** 💪
 
 ## Coursework
-- Intro to Topology 🧮
-- Networking 💻
-- Fundamentals of Data Science 🖥️
-- Artificial Intelligence 🖱️
+None as I am currently on Summer break! I am currently working in IT and conducting research on IoT devices :)
