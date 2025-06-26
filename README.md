@@ -13,3 +13,6 @@ Hey, my name is **Daniel Garza**. I'm a Software Engineering and Mathematics stu
 
 ## Coursework
 None as I am currently on Summer break! I am currently working in IT and conducting research on IoT devices :)
+
+## Time Spent Programming since March 19, 2025:
+[![wakatime](https://wakatime.com/badge/user/9da1ff44-7afb-4298-9f06-55760750caa3.svg)](https://wakatime.com/@9da1ff44-7afb-4298-9f06-55760750caa3)
