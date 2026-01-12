@@ -12,7 +12,10 @@ Hey, my name is **Daniel Garza**. I'm a Software Engineering and Mathematics stu
 - ⚡ Fun fact: I also have a strong love for **powerlifting and bodybuilding** 💪
 
 ## Coursework
-None! I am on winter break.
+- Continuous Mathematics 🧮
+- Data Preparation and Analysis 💻
+- Senior CIS Project :atom:
+- Data Mine of the Rockies (CS Directed Study) 🗻
 
 ## Time Spent Programming since March 19, 2025:
 [![wakatime](https://wakatime.com/badge/user/9da1ff44-7afb-4298-9f06-55760750caa3.svg)](https://wakatime.com/@9da1ff44-7afb-4298-9f06-55760750caa3)
