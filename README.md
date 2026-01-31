@@ -8,7 +8,7 @@ Hey, my name is **Daniel Garza**. I'm a Software Engineering and Mathematics stu
 
 ## Current Activities
 - 🔭 I’m currently working on **OfflineNihongo**
-- 🌱 I’m currently learning **日本語** and **中文** 
+- 🌱 I’m currently learning **日本語**
 - ⚡ Fun fact: I also have a strong love for **powerlifting and bodybuilding** 💪
 
 ## Coursework
