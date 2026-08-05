@@ -12,4 +12,4 @@ Hey, my name is **Daniel Garza**. I'm a Software Developer at Career Team and a 
 - ⚡ Fun fact: I also have a strong love for **powerlifting and bodybuilding** 💪
 
 ## Time Spent Programming since March 19, 2025:
-[![wakatime](https://wakatime.com/badge/user/9da1ff44-7afb-4298-9f06-55760750caa3.svg)](https://wakatime.com/@9da1ff44-7afb-4298-9f06-55760750caa3)
+[![wakatime](https://wakatime.com/badge/user/9da1ff44-7afb-4298-9f06-55760750caa3.svg?style=for-the-badge)](https://wakatime.com/@9da1ff44-7afb-4298-9f06-55760750caa3)
