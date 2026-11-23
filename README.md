@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About Me
-Hey, my name is **Daniel Garza**. I'm a Software Developer at Career Team and a recent graduate from the University of Northern Colorado. I've always had a passion for technology and I'm eager to learn new languages, frameworks, paradigms, and more.
+Hey, my name is **Daniel Garza**. I'm a Software Engineer at Career Team and a recent graduate from the University of Northern Colorado. I've always had a passion for technology and I'm eager to learn new languages, frameworks, paradigms, and more.
 
 ## Skills/Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,cs,git,github,java,linux,py,vscode,powershell,idea,cloudflare,latex,arch,vim,apple,md,obsidian,r,raspberrypi,sublime,svelte)](https://skillicons.dev) 
